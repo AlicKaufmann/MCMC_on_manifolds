@@ -1,10 +1,10 @@
 ## Markov Chain Monte Carlo Algorithm on geniric Euclidean Manifold
 
 ### Task
-This mini-project concerns Monte Carlo methods on manifolds in the Euclidean space defined
+The goal of this project is to apply Monte Carlo methods on manifolds in the Euclidean space defined
 by equality and inequality constraints. In particular, this project constructs an MCMC
 sampler for probability distributions defined by unnormalized densities on such manifolds.
-Once samples have been obtained, one can use them to compute integrals over the manifold.
+Once samples have been obtained, one can use them to compute integrals over the manifold. We base ourself on the paper [Monte Carlo on Manifolds](https://arxiv.org/abs/1702.08446)
 
 ### Run locally
 * Clone the repository `git clone https://github.com/AlicKaufmann/MCMC_on_manifolds`
